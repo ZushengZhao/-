@@ -1,0 +1,1 @@
+2019-08-22 加入更新command表中releasetime的值

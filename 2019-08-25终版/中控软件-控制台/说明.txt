@@ -1,0 +1,11 @@
+2019-08-19 增加判断发送是否成功和读写是否成功switch
+2019-08-20 增加叉车确认continue程序，注释掉main函数不用的代码， sendtask、update、continue、monitoring在一个线程内顺序运行
+2019-08-21 
+	1）修复sendtask重复发送第二行任务的bug,增加sendtask中状态4加入对第二行数据状态值的判断，当第二行数据状态值为0时发送；
+	2）修复重复发送continue的bug,加入判断loadpointrelease，成功触发continue后，将该值置为2，不会再循环发送continue；
+	3）将写入数据表放在sendtask之前，优先保证数据库写入成功后才执行发送任务。
+2019-08-22
+	1)为程序添加注释，删除了无用的代码；
+	2）加入插入time1值（成功发送任务的时间）
+2019-08-25
+	1)将数据库的IP，端口和账户密码等信息记录在account.txt以及IP.txt两个文本中
