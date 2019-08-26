@@ -1,0 +1,1 @@
+Data Source =192.168.1.100;Initial Catalog = Plugins; User=sa; Password=zu19960818

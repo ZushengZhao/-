@@ -1,0 +1,548 @@
+测试   taskID:000   reqTime:8102年   UnitStatus:5   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:5   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:5   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:8   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:8   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:8   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:1   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:8102年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:3   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:4   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:5   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:5   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:3   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:3   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:5   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:5   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:5   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:5   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:5   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:5   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:5   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:2   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:6   AGVID：010
+测试   taskID:000   reqTime:2019年   UnitStatus:6   AGVID：010
+测试   taskID:ZC0116CB7D0711318N7   reqTime:2019-08-22 13:38:43   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CB7D0711318N7   reqTime:2019-08-22 13:40:32   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CB7D0711318N7   reqTime:2019-08-22 13:36:44   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CB7D0711318N7   reqTime:2019-08-22 13:35:31   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CB7D80F2F18NG   reqTime:2019-08-22 13:43:11   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CB7D80F2F18NG   reqTime:2019-08-22 13:44:27   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CB7D9827418NL   reqTime:2019-08-22 13:45:19   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CB7D80F2F18NG   reqTime:2019-08-22 13:46:49   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CB7D9827418NL   reqTime:2019-08-22 13:47:02   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CB7D9827418NL   reqTime:2019-08-22 13:47:04   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CB7D9827418NL   reqTime:2019-08-22 13:48:47   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CB7D80F2F18NG   reqTime:2019-08-22 13:49:01   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CB7DD051318NU   reqTime:2019-08-22 13:49:17   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CB7DFC40418O5   reqTime:2019-08-22 13:49:52   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CB7DD051318NU   reqTime:2019-08-22 13:50:30   UnitStatus:3   AGVID：1
+测试   taskID:ZC0116CB7DFC40418O5   reqTime:2019-08-22 13:51:35   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CB7DD051318NU   reqTime:2019-08-22 13:56:23   UnitStatus:4   AGVID：1
+测试   taskID:ZC0116CB7DFC40418O5   reqTime:2019-08-22 13:56:27   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CB7E5C73B18OD   reqTime:2019-08-22 13:57:33   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CB7DD051318NU   reqTime:2019-08-22 13:58:12   UnitStatus:-1   AGVID：1
+测试   taskID:ZC0116CB7DFC40418O5   reqTime:2019-08-22 13:58:19   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CB7E5C73B18OD   reqTime:2019-08-22 13:58:49   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CB7E5C73B18OD   reqTime:2019-08-22 14:06:29   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CB7EF054418OO   reqTime:2019-08-22 14:08:48   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CB7E5C73B18OD   reqTime:2019-08-22 14:10:02   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CB7EF054418OO   reqTime:2019-08-22 14:10:14   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CB7EF054418OO   reqTime:2019-08-22 14:10:16   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CB7EF054418OO   reqTime:2019-08-22 14:12:02   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CB7F29DB818OX   reqTime:2019-08-22 14:12:12   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CB7F2B52018P3   reqTime:2019-08-22 14:13:04   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CB7F29DB818OX   reqTime:2019-08-22 14:13:55   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CB7F29DB818OX   reqTime:2019-08-22 14:15:14   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CB7F2B52018P3   reqTime:2019-08-22 14:15:47   UnitStatus:3   AGVID：1
+测试   taskID:ZC0116CB7F2B52018P3   reqTime:2019-08-22 14:15:48   UnitStatus:4   AGVID：1
+测试   taskID:ZC0116CB7F6BE8418PB   reqTime:2019-08-22 14:17:34   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CB7F6BE8418PB   reqTime:2019-08-22 14:18:45   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CB7F6BE8418PB   reqTime:2019-08-22 14:18:47   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CB7FD81BE18PP   reqTime:2019-08-22 14:24:44   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CB7FD91F818PU   reqTime:2019-08-22 14:24:51   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CB7FDAC9B18PZ   reqTime:2019-08-22 14:25:03   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CB7FD81BE18PP   reqTime:2019-08-22 14:26:17   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CB7FD81BE18PP   reqTime:2019-08-22 14:26:18   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CB7FD91F818PU   reqTime:2019-08-22 14:26:39   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CB7FD91F818PU   reqTime:2019-08-22 14:26:41   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CB7FD81BE18PP   reqTime:2019-08-22 14:28:06   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CB8017B9D18QA   reqTime:2019-08-22 14:29:55   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CB7FD91F818PU   reqTime:2019-08-22 14:29:56   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CB8017B9D18QA   reqTime:2019-08-22 14:31:13   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CB8017B9D18QA   reqTime:2019-08-22 14:31:15   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CB8017B9D18QA   reqTime:2019-08-22 14:32:58   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CB808AB1018QN   reqTime:2019-08-22 14:34:32   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CB808AB1018QN   reqTime:2019-08-22 14:35:48   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CB808AB1018QN   reqTime:2019-08-22 14:36:03   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CB808AB1018QN   reqTime:2019-08-22 14:37:49   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CB812C2E418QW   reqTime:2019-08-22 14:46:05   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CB812C2E418QW   reqTime:2019-08-22 14:47:17   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CB812C2E418QW   reqTime:2019-08-22 14:58:14   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CB81E642E18R5   reqTime:2019-08-22 14:58:45   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CB812C2E418QW   reqTime:2019-08-22 14:59:57   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CB81E642E18R5   reqTime:2019-08-22 15:00:01   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CB81E642E18R5   reqTime:2019-08-22 15:00:03   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CB81E642E18R5   reqTime:2019-08-22 15:01:47   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CB825CCCE18RE   reqTime:2019-08-22 15:06:21   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CB825CCCE18RE   reqTime:2019-08-22 15:07:33   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CB825CCCE18RE   reqTime:2019-08-22 16:10:32   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CB860958F18RM   reqTime:2019-08-22 16:11:03   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CB825CCCE18RE   reqTime:2019-08-22 16:12:15   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CB860958F18RM   reqTime:2019-08-22 16:12:18   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CB860958F18RM   reqTime:2019-08-22 16:33:30   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CB860958F18RM   reqTime:2019-08-22 16:35:14   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CB87CD9AA18RW   reqTime:2019-08-22 16:41:26   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CB87CD9AA18RW   reqTime:2019-08-22 16:42:38   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CB87CEA3618S3   reqTime:2019-08-22 16:43:01   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CB87E6487102L   reqTime:2019-08-22 16:44:14   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CB87E6487102L   reqTime:2019-08-22 16:44:40   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CB87CEA3618S3   reqTime:2019-08-22 16:44:47   UnitStatus:3   AGVID：1
+测试   taskID:ZC0116CB87CEA3618S3   reqTime:2019-08-22 16:45:43   UnitStatus:4   AGVID：1
+测试   taskID:ZC0116CB87E6487102L   reqTime:2019-08-22 16:45:46   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CB87E6487102L   reqTime:2019-08-22 16:46:50   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CB87CD9AA18RW   reqTime:2019-08-22 16:46:50   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CB87CEA3618S3   reqTime:2019-08-22 16:47:30   UnitStatus:-1   AGVID：1
+测试   taskID:ZC0116CB881D31B102Y   reqTime:2019-08-22 16:47:50   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CB881D31B102Y   reqTime:2019-08-22 16:49:07   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CB881D31B102Y   reqTime:2019-08-22 16:50:36   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CB881D31B102Y   reqTime:2019-08-22 16:52:22   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CB87CD9AA18RW   reqTime:2019-08-22 16:54:35   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CB88C9B13103G   reqTime:2019-08-22 16:59:08   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CB88C9B13103G   reqTime:2019-08-22 16:59:50   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CB88C9C41103L   reqTime:2019-08-22 17:00:05   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CB88E3818103T   reqTime:2019-08-22 17:00:24   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CB88E4A12103Z   reqTime:2019-08-22 17:02:13   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CB88C9C41103L   reqTime:2019-08-22 17:02:38   UnitStatus:3   AGVID：1
+测试   taskID:ZC0116CB88E3818103T   reqTime:2019-08-22 17:03:17   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CB88E3818103T   reqTime:2019-08-22 17:03:18   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CB88E4A12103Z   reqTime:2019-08-22 17:03:59   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CB890E6F9104D   reqTime:2019-08-22 17:04:37   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CB88E5C631045   reqTime:2019-08-22 17:05:03   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CB890E6F9104D   reqTime:2019-08-22 17:05:24   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CB890E6F9104D   reqTime:2019-08-22 17:05:50   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CB88E5C631045   reqTime:2019-08-22 17:07:37   UnitStatus:3   AGVID：1
+测试   taskID:ZC0116CB88E5C631045   reqTime:2019-08-22 17:07:38   UnitStatus:4   AGVID：1
+测试   taskID:ZC0116CB88E3818103T   reqTime:2019-08-22 17:08:05   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CB88E5C631045   reqTime:2019-08-22 17:10:08   UnitStatus:-1   AGVID：1
+测试   taskID:ZC0116CB88E4A12103Z   reqTime:2019-08-22 17:10:53   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CB890E6F9104D   reqTime:2019-08-22 17:10:53   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CB8E9063D1112   reqTime:2019-08-22 18:42:40   UnitStatus:3   AGVID：5
+测试   taskID:ZC0116CB8FC3872113O   reqTime:2019-08-22 19:00:43   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CB8FC4A75113T   reqTime:2019-08-22 19:01:20   UnitStatus:2   AGVID：4
+测试   taskID:ZC0116CB8FC2E58113J   reqTime:2019-08-22 19:02:16   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CB8FC2105113E   reqTime:2019-08-22 19:02:30   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CB8FC141A1130   reqTime:2019-08-22 19:02:32   UnitStatus:2   AGVID：5
+测试   taskID:ZC0116CB8FC3872113O   reqTime:2019-08-22 19:03:16   UnitStatus:3   AGVID：1
+测试   taskID:ZC0116CB8FC3872113O   reqTime:2019-08-22 19:03:18   UnitStatus:4   AGVID：1
+测试   taskID:ZC0116CB8FC4A75113T   reqTime:2019-08-22 19:03:52   UnitStatus:3   AGVID：4
+测试   taskID:ZC0116CB8FC4A75113T   reqTime:2019-08-22 19:03:53   UnitStatus:4   AGVID：4
+测试   taskID:ZC0116CB8FC2E58113J   reqTime:2019-08-22 19:04:09   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CB8FC2E58113J   reqTime:2019-08-22 19:04:10   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CB8FC141A1130   reqTime:2019-08-22 19:05:03   UnitStatus:3   AGVID：5
+测试   taskID:ZC0116CB8FC141A1130   reqTime:2019-08-22 19:05:05   UnitStatus:4   AGVID：5
+测试   taskID:ZC0116CB8FC2105113E   reqTime:2019-08-22 19:06:18   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CB8FC2105113E   reqTime:2019-08-22 19:06:20   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CB8FC2E58113J   reqTime:2019-08-22 19:06:23   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CB8FC3872113O   reqTime:2019-08-22 19:07:30   UnitStatus:-1   AGVID：1
+测试   taskID:ZC0116CB900636F114G   reqTime:2019-08-22 19:07:31   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CB8FC4A75113T   reqTime:2019-08-22 19:07:47   UnitStatus:-1   AGVID：4
+测试   taskID:ZC0116CB8FC2105113E   reqTime:2019-08-22 19:09:39   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CB8FF4C481148   reqTime:2019-08-22 19:09:46   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CB8FC141A1130   reqTime:2019-08-22 19:10:07   UnitStatus:-1   AGVID：5
+测试   taskID:ZC0116CB900636F114G   reqTime:2019-08-22 19:10:12   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CB900636F114G   reqTime:2019-08-22 19:10:14   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CB8FC05CD1135   reqTime:2019-08-22 19:10:22   UnitStatus:2   AGVID：4
+测试   taskID:ZC0116CB900636F114G   reqTime:2019-08-22 19:12:11   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CB8FF4C481148   reqTime:2019-08-22 19:12:16   UnitStatus:3   AGVID：1
+测试   taskID:ZC0116CB8FF4C481148   reqTime:2019-08-22 19:12:17   UnitStatus:4   AGVID：1
+测试   taskID:ZC0116CB8FC05CD1135   reqTime:2019-08-22 19:12:29   UnitStatus:3   AGVID：4
+测试   taskID:ZC0116CB8FC05CD1135   reqTime:2019-08-22 19:12:31   UnitStatus:4   AGVID：4
+测试   taskID:ZC0116CB8FC05CD1135   reqTime:2019-08-22 19:14:56   UnitStatus:-1   AGVID：4
+测试   taskID:ZC0116CB8FF4C481148   reqTime:2019-08-22 19:22:55   UnitStatus:-1   AGVID：1
+测试   taskID:ZC0116CB91B696D1155   reqTime:2019-08-22 19:35:10   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CB91B7B281150   reqTime:2019-08-22 19:35:44   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CB91BFD53115Z   reqTime:2019-08-22 19:36:02   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CB91BC0BD115T   reqTime:2019-08-22 19:36:03   UnitStatus:2   AGVID：4
+测试   taskID:ZC0116CB91B696D1155   reqTime:2019-08-22 19:37:03   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CB91B9FC3115J   reqTime:2019-08-22 19:37:13   UnitStatus:2   AGVID：5
+测试   taskID:ZC0116CB91B696D1155   reqTime:2019-08-22 19:37:22   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CB91B7B281150   reqTime:2019-08-22 19:37:32   UnitStatus:3   AGVID：1
+测试   taskID:ZC0116CB91B7B281150   reqTime:2019-08-22 19:37:33   UnitStatus:4   AGVID：1
+测试   taskID:ZC0116CB91BC0BD115T   reqTime:2019-08-22 19:37:57   UnitStatus:3   AGVID：4
+测试   taskID:ZC0116CB91BC0BD115T   reqTime:2019-08-22 19:37:59   UnitStatus:4   AGVID：4
+测试   taskID:ZC0116CB91BFD53115Z   reqTime:2019-08-22 19:38:28   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CB91BFD53115Z   reqTime:2019-08-22 19:38:29   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CB91B7B281150   reqTime:2019-08-22 19:39:33   UnitStatus:-1   AGVID：1
+测试   taskID:ZC0116CB91B9FC3115J   reqTime:2019-08-22 19:40:00   UnitStatus:3   AGVID：5
+测试   taskID:ZC0116CB91B9FC3115J   reqTime:2019-08-22 19:40:02   UnitStatus:4   AGVID：5
+测试   taskID:ZC0116CB91BFD53115Z   reqTime:2019-08-22 19:40:22   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CB91B696D1155   reqTime:2019-08-22 19:40:37   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CB920649E116Y   reqTime:2019-08-22 19:40:54   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CB91BC0BD115T   reqTime:2019-08-22 19:41:23   UnitStatus:-1   AGVID：4
+测试   taskID:ZC0116CB91E1FD3116H   reqTime:2019-08-22 19:41:47   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CB91BAEBF115O   reqTime:2019-08-22 19:42:22   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CB91E8343116O   reqTime:2019-08-22 19:42:22   UnitStatus:2   AGVID：4
+测试   taskID:ZC0116CB91E1FD3116H   reqTime:2019-08-22 19:42:29   UnitStatus:3   AGVID：1
+测试   taskID:ZC0116CB91E1FD3116H   reqTime:2019-08-22 19:42:30   UnitStatus:4   AGVID：1
+测试   taskID:ZC0116CB91E1FD3116H   reqTime:2019-08-22 19:43:07   UnitStatus:-1   AGVID：1
+测试   taskID:ZC0116CB91B9FC3115J   reqTime:2019-08-22 19:43:08   UnitStatus:-1   AGVID：5
+测试   taskID:ZC0116CB920649E116Y   reqTime:2019-08-22 19:43:28   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CB920649E116Y   reqTime:2019-08-22 19:43:29   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CB91B8D2A115E   reqTime:2019-08-22 19:43:44   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CB91E8343116O   reqTime:2019-08-22 19:44:54   UnitStatus:3   AGVID：4
+测试   taskID:ZC0116CB91E8343116O   reqTime:2019-08-22 19:44:55   UnitStatus:4   AGVID：4
+测试   taskID:ZC0116CB91BAEBF115O   reqTime:2019-08-22 19:45:33   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CB91BAEBF115O   reqTime:2019-08-22 19:45:34   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CB91DF533116A   reqTime:2019-08-22 19:45:36   UnitStatus:2   AGVID：5
+测试   taskID:ZC0116CB91B8D2A115E   reqTime:2019-08-22 19:46:37   UnitStatus:3   AGVID：1
+测试   taskID:ZC0116CB91B8D2A115E   reqTime:2019-08-22 19:46:38   UnitStatus:4   AGVID：1
+测试   taskID:ZC0116CB91E8343116O   reqTime:2019-08-22 19:47:47   UnitStatus:-1   AGVID：4
+测试   taskID:ZC0116CB920649E116Y   reqTime:2019-08-22 19:47:57   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CB91DF533116A   reqTime:2019-08-22 19:48:05   UnitStatus:3   AGVID：5
+测试   taskID:ZC0116CB91DF533116A   reqTime:2019-08-22 19:48:06   UnitStatus:4   AGVID：5
+测试   taskID:ZC0116CB92574BB117L   reqTime:2019-08-22 19:49:11   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CB91BAEBF115O   reqTime:2019-08-22 19:51:06   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CB91DF533116A   reqTime:2019-08-22 19:51:15   UnitStatus:-1   AGVID：5
+测试   taskID:ZC0116CB92574BB117L   reqTime:2019-08-22 19:52:30   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CB92574BB117L   reqTime:2019-08-22 19:52:31   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CB91B8D2A115E   reqTime:2019-08-22 19:53:53   UnitStatus:-1   AGVID：1
+测试   taskID:ZC0116CB92574BB117L   reqTime:2019-08-22 19:55:53   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CBBEF2C72111G   reqTime:2019-08-23 08:47:04   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CBBEEEB421112   reqTime:2019-08-23 08:47:17   UnitStatus:2   AGVID：4
+测试   taskID:ZC0116CBBEF1DED111B   reqTime:2019-08-23 08:47:20   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CBBEF01741117   reqTime:2019-08-23 08:47:25   UnitStatus:2   AGVID：5
+测试   taskID:ZC0116CBBEF3BA5111L   reqTime:2019-08-23 08:47:35   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CBBEF3BA5111L   reqTime:2019-08-23 08:49:33   UnitStatus:3   AGVID：1
+测试   taskID:ZC0116CBBEF3BA5111L   reqTime:2019-08-23 08:49:35   UnitStatus:4   AGVID：1
+测试   taskID:ZC0116CBBEF2C72111G   reqTime:2019-08-23 08:50:05   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CBBEF2C72111G   reqTime:2019-08-23 08:50:07   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CBBEF1DED111B   reqTime:2019-08-23 08:50:17   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CBBEF1DED111B   reqTime:2019-08-23 08:50:18   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CBBEEEB421112   reqTime:2019-08-23 08:50:50   UnitStatus:3   AGVID：4
+测试   taskID:ZC0116CBBEEEB421112   reqTime:2019-08-23 08:50:51   UnitStatus:4   AGVID：4
+测试   taskID:ZC0116CBBEF01741117   reqTime:2019-08-23 08:51:35   UnitStatus:3   AGVID：5
+测试   taskID:ZC0116CBBEF01741117   reqTime:2019-08-23 08:51:36   UnitStatus:4   AGVID：5
+测试   taskID:ZC0116CBBEF3BA5111L   reqTime:2019-08-23 08:52:47   UnitStatus:-1   AGVID：1
+测试   taskID:ZC0116CBBEF2C72111G   reqTime:2019-08-23 08:53:34   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CBBEEEB421112   reqTime:2019-08-23 08:54:01   UnitStatus:-1   AGVID：4
+测试   taskID:ZC0116CBBEF01741117   reqTime:2019-08-23 08:54:38   UnitStatus:-1   AGVID：5
+测试   taskID:ZC0116CBBF4699E1124   reqTime:2019-08-23 08:55:05   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CBBF4699E1124   reqTime:2019-08-23 08:56:56   UnitStatus:3   AGVID：1
+测试   taskID:ZC0116CBBF8F7F0112F   reqTime:2019-08-23 08:56:57   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CBBF4699E1124   reqTime:2019-08-23 08:56:58   UnitStatus:4   AGVID：1
+测试   taskID:ZC0116CBBEF1DED111B   reqTime:2019-08-23 08:57:00   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CBBF90901112K   reqTime:2019-08-23 08:58:11   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CBBF93599112Z   reqTime:2019-08-23 08:58:16   UnitStatus:2   AGVID：5
+测试   taskID:ZC0116CBBF917A2112P   reqTime:2019-08-23 08:58:32   UnitStatus:2   AGVID：4
+测试   taskID:ZC0116CBBF8F7F0112F   reqTime:2019-08-23 08:58:50   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CBBF8F7F0112F   reqTime:2019-08-23 08:58:51   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CBBF4699E1124   reqTime:2019-08-23 08:59:17   UnitStatus:-1   AGVID：1
+测试   taskID:ZC0116CBBF93599112Z   reqTime:2019-08-23 09:00:50   UnitStatus:3   AGVID：5
+测试   taskID:ZC0116CBBF93599112Z   reqTime:2019-08-23 09:00:51   UnitStatus:4   AGVID：5
+测试   taskID:ZC0116CBBF90901112K   reqTime:2019-08-23 09:01:02   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CBBF90901112K   reqTime:2019-08-23 09:01:03   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CBBF917A2112P   reqTime:2019-08-23 09:01:17   UnitStatus:3   AGVID：4
+测试   taskID:ZC0116CBBF917A2112P   reqTime:2019-08-23 09:01:17   UnitStatus:4   AGVID：4
+测试   taskID:ZC0116CBBF8F7F0112F   reqTime:2019-08-23 09:01:31   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CBBF92818112U   reqTime:2019-08-23 09:01:44   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CBBF90901112K   reqTime:2019-08-23 09:02:53   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CBBFDBB88113I   reqTime:2019-08-23 09:03:15   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CBBFDBB88113I   reqTime:2019-08-23 09:03:57   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CBBFDBB88113I   reqTime:2019-08-23 09:04:37   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CBBF92818112U   reqTime:2019-08-23 09:05:11   UnitStatus:3   AGVID：1
+测试   taskID:ZC0116CBBF92818112U   reqTime:2019-08-23 09:05:13   UnitStatus:4   AGVID：1
+测试   taskID:ZC0116CBBFDBB88113I   reqTime:2019-08-23 09:05:16   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CBBF92818112U   reqTime:2019-08-23 09:13:11   UnitStatus:-1   AGVID：1
+测试   taskID:ZC0116CBC0C740D1142   reqTime:2019-08-23 09:17:40   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CBC0C94591147   reqTime:2019-08-23 09:18:44   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CBC0C740D1142   reqTime:2019-08-23 09:19:34   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CBC0C94591147   reqTime:2019-08-23 09:20:32   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CBC0C94591147   reqTime:2019-08-23 09:21:46   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CBC0C740D1142   reqTime:2019-08-23 09:22:17   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CBC0C94591147   reqTime:2019-08-23 09:23:37   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CBC0C740D1142   reqTime:2019-08-23 09:28:05   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CBC1CCBAE114S   reqTime:2019-08-23 09:36:54   UnitStatus:2   AGVID：4
+测试   taskID:ZC0116CBC1CCBAE114S   reqTime:2019-08-23 09:36:54   UnitStatus:2   AGVID：4
+测试   taskID:ZC0116CBC1CCBAE114S   reqTime:2019-08-23 09:36:54   UnitStatus:2   AGVID：4
+测试   taskID:ZC0116CBC1CCBAE114S   reqTime:2019-08-23 09:39:27   UnitStatus:3   AGVID：4
+测试   taskID:ZC0116CBC1CCBAE114S   reqTime:2019-08-23 09:39:33   UnitStatus:4   AGVID：4
+测试   taskID:ZC0116CBC1CCBAE114S   reqTime:2019-08-23 09:40:12   UnitStatus:11   AGVID：4_Check
+测试   taskID:ZC0116CBC1CCBAE114S   reqTime:2019-08-23 09:40:12   UnitStatus:11   AGVID：4_Check
+测试   taskID:ZC0116CBC1CCBAE114S   reqTime:2019-08-23 09:40:12   UnitStatus:11   AGVID：4_Check
+测试   taskID:ZC0116CBC1CCBAE114S   reqTime:2019-08-23 09:40:12   UnitStatus:11   AGVID：4_Check
+测试   taskID:ZC0116CBC1CCBAE114S   reqTime:2019-08-23 09:40:12   UnitStatus:11   AGVID：4_Check
+测试   taskID:ZC0116CBC1CCBAE114S   reqTime:2019-08-23 09:42:34   UnitStatus:-1   AGVID：4
+测试   taskID:ZC0116CBCEA0BDD111A   reqTime:2019-08-23 13:20:52   UnitStatus:2   AGVID：5
+测试   taskID:ZC0116CBCEA29F5111F   reqTime:2019-08-23 13:21:10   UnitStatus:2   AGVID：4
+测试   taskID:ZC0116CBCEA3749111K   reqTime:2019-08-23 13:21:29   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CBCEA3749111K   reqTime:2019-08-23 13:21:29   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CBCEA460D111U   reqTime:2019-08-23 13:22:13   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CBCEA4108111P   reqTime:2019-08-23 13:23:09   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CBCEA29F5111F   reqTime:2019-08-23 13:23:17   UnitStatus:3   AGVID：4
+测试   taskID:ZC0116CBCEA0BDD111A   reqTime:2019-08-23 13:23:24   UnitStatus:3   AGVID：5
+测试   taskID:ZC0116CBCEA3749111K   reqTime:2019-08-23 13:24:07   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CBCEA3749111K   reqTime:2019-08-23 13:24:08   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CBCEA0BDD111A   reqTime:2019-08-23 13:25:16   UnitStatus:4   AGVID：5
+测试   taskID:ZC0116CBCEA29F5111F   reqTime:2019-08-23 13:27:11   UnitStatus:4   AGVID：4
+测试   taskID:ZC0116CBCEA4108111P   reqTime:2019-08-23 13:27:20   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CBCEA460D111U   reqTime:2019-08-23 13:27:29   UnitStatus:3   AGVID：1
+测试   taskID:ZC0116CBCEA460D111U   reqTime:2019-08-23 13:27:31   UnitStatus:4   AGVID：1
+测试   taskID:ZC0116CBCEA3749111K   reqTime:2019-08-23 13:28:23   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CBCEA4108111P   reqTime:2019-08-23 13:30:16   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CBCEA29F5111F   reqTime:2019-08-23 13:30:18   UnitStatus:-1   AGVID：4
+测试   taskID:ZC0116CBCEA0BDD111A   reqTime:2019-08-23 13:30:19   UnitStatus:-1   AGVID：5
+测试   taskID:ZC0116CBCEA460D111U   reqTime:2019-08-23 13:30:26   UnitStatus:-1   AGVID：1
+测试   taskID:ZC0116CBCED12EC1120   reqTime:2019-08-23 13:31:26   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CBCED12EC1120   reqTime:2019-08-23 13:32:08   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CBCED12EC1120   reqTime:2019-08-23 13:32:10   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CBCEE9C74112J   reqTime:2019-08-23 13:32:35   UnitStatus:2   AGVID：4
+测试   taskID:ZC0116CBCEFA358112P   reqTime:2019-08-23 13:32:50   UnitStatus:2   AGVID：5
+测试   taskID:ZC0116CBCED12EC1120   reqTime:2019-08-23 13:32:50   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CBCF5C6F0113M   reqTime:2019-08-23 13:32:52   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CBCF2637C1134   reqTime:2019-08-23 13:33:21   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CBCECF4711125   reqTime:2019-08-23 13:34:33   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CBCF5C6F0113M   reqTime:2019-08-23 13:34:58   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CBCEE9C74112J   reqTime:2019-08-23 13:35:05   UnitStatus:3   AGVID：4
+测试   taskID:ZC0116CBCF2637C1134   reqTime:2019-08-23 13:35:20   UnitStatus:3   AGVID：1
+测试   taskID:ZC0116CBCEFA358112P   reqTime:2019-08-23 13:35:31   UnitStatus:3   AGVID：5
+测试   taskID:ZC0116CBCEFA358112P   reqTime:2019-08-23 13:35:32   UnitStatus:4   AGVID：5
+测试   taskID:ZC0116CBCECF4711125   reqTime:2019-08-23 13:38:26   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CBCEFA358112P   reqTime:2019-08-23 13:38:50   UnitStatus:-1   AGVID：5
+测试   taskID:ZC0116CBCFF0A8D115X   reqTime:2019-08-23 13:42:16   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CBCFF1C30116C   reqTime:2019-08-23 13:43:11   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CBCFF138E1163   reqTime:2019-08-23 13:43:25   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CBCFEFEC7115S   reqTime:2019-08-23 13:43:36   UnitStatus:2   AGVID：5
+测试   taskID:ZC0116CBCFEF281115N   reqTime:2019-08-23 13:43:49   UnitStatus:2   AGVID：4
+测试   taskID:ZC0116CBCFF0A8D115X   reqTime:2019-08-23 13:45:00   UnitStatus:3   AGVID：1
+测试   taskID:ZC0116CBCFEFEC7115S   reqTime:2019-08-23 13:45:35   UnitStatus:3   AGVID：5
+测试   taskID:ZC0116CBCFEFEC7115S   reqTime:2019-08-23 13:45:36   UnitStatus:4   AGVID：5
+测试   taskID:ZC0116CBCFF1C30116C   reqTime:2019-08-23 13:45:43   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CBCFEF281115N   reqTime:2019-08-23 13:45:50   UnitStatus:3   AGVID：4
+测试   taskID:ZC0116CBCFF138E1163   reqTime:2019-08-23 13:45:57   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CBCFEFEC7115S   reqTime:2019-08-23 13:47:26   UnitStatus:-1   AGVID：5
+测试   taskID:ZC0116CBCFF4BE9116I   reqTime:2019-08-23 13:48:03   UnitStatus:2   AGVID：5
+测试   taskID:ZC0116CBCFEF281115N   reqTime:2019-08-23 13:48:25   UnitStatus:4   AGVID：4
+测试   taskID:ZC0116CBCFF0A8D115X   reqTime:2019-08-23 13:48:28   UnitStatus:4   AGVID：1
+测试   taskID:ZC0116CBCFF138E1163   reqTime:2019-08-23 13:48:30   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CBCFF1C30116C   reqTime:2019-08-23 13:48:32   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CBCFEF281115N   reqTime:2019-08-23 13:50:51   UnitStatus:-1   AGVID：4
+测试   taskID:ZC0116CBCFF4BE9116I   reqTime:2019-08-23 13:51:20   UnitStatus:3   AGVID：5
+测试   taskID:ZC0116CBD04F3C6117I   reqTime:2019-08-23 13:51:22   UnitStatus:2   AGVID：4
+测试   taskID:ZC0116CBCFF4BE9116I   reqTime:2019-08-23 13:51:22   UnitStatus:4   AGVID：5
+测试   taskID:ZC0116CBCFF0A8D115X   reqTime:2019-08-23 13:51:42   UnitStatus:-1   AGVID：1
+测试   taskID:ZC0116CBCFF1C30116C   reqTime:2019-08-23 13:51:48   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CBCFF138E1163   reqTime:2019-08-23 13:52:28   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CBD02436D116U   reqTime:2019-08-23 13:52:58   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CBCFF4BE9116I   reqTime:2019-08-23 13:53:28   UnitStatus:-1   AGVID：5
+测试   taskID:ZC0116CBD02436D116U   reqTime:2019-08-23 13:53:40   UnitStatus:3   AGVID：1
+测试   taskID:ZC0116CBD04EA50117C   reqTime:2019-08-23 13:53:47   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CBD04F3C6117I   reqTime:2019-08-23 13:53:51   UnitStatus:3   AGVID：4
+测试   taskID:ZC0116CBCFF16181168   reqTime:2019-08-23 13:54:53   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CBD04D5511176   reqTime:2019-08-23 13:55:48   UnitStatus:2   AGVID：5
+测试   taskID:ZC0116CBD04EA50117C   reqTime:2019-08-23 13:56:20   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CBD02436D116U   reqTime:2019-08-23 13:58:04   UnitStatus:4   AGVID：1
+测试   taskID:ZC0116CBD04EA50117C   reqTime:2019-08-23 13:58:12   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CBD04D5511176   reqTime:2019-08-23 13:58:14   UnitStatus:3   AGVID：5
+测试   taskID:ZC0116CBD04F3C6117I   reqTime:2019-08-23 13:58:15   UnitStatus:4   AGVID：4
+测试   taskID:ZC0116CBD04D5511176   reqTime:2019-08-23 13:58:16   UnitStatus:4   AGVID：5
+测试   taskID:ZC0116CBCFF16181168   reqTime:2019-08-23 13:58:41   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CBCFF16181168   reqTime:2019-08-23 13:58:42   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CBD02436D116U   reqTime:2019-08-23 13:58:43   UnitStatus:-1   AGVID：1
+测试   taskID:ZC0116CBD04D5511176   reqTime:2019-08-23 14:01:11   UnitStatus:-1   AGVID：5
+测试   taskID:ZC0116CBD0E425E118A   reqTime:2019-08-23 14:01:19   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CBD04EA50117C   reqTime:2019-08-23 14:02:10   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CBD04F3C6117I   reqTime:2019-08-23 14:02:19   UnitStatus:-1   AGVID：4
+测试   taskID:ZC0116CBCFF16181168   reqTime:2019-08-23 14:09:29   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CBD2A7501118Q   reqTime:2019-08-23 14:29:33   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CBD2A83FA118W   reqTime:2019-08-23 14:30:07   UnitStatus:2   AGVID：4
+测试   taskID:ZC0116CBD2A61DF118L   reqTime:2019-08-23 14:30:12   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CBD2A96691192   reqTime:2019-08-23 14:31:44   UnitStatus:2   AGVID：5
+测试   taskID:ZC0116CBD2A7501118Q   reqTime:2019-08-23 14:32:06   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CBD2A83FA118W   reqTime:2019-08-23 14:32:09   UnitStatus:3   AGVID：4
+测试   taskID:ZC0116CBD2AA47D1197   reqTime:2019-08-23 14:32:14   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CBD2A83FA118W   reqTime:2019-08-23 14:33:21   UnitStatus:4   AGVID：4
+测试   taskID:ZC0116CBD2A7501118Q   reqTime:2019-08-23 14:33:32   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CBD2A96691192   reqTime:2019-08-23 14:33:36   UnitStatus:3   AGVID：5
+测试   taskID:ZC0116CBD2A96691192   reqTime:2019-08-23 14:33:37   UnitStatus:4   AGVID：5
+测试   taskID:ZC0116CBD2AA47D1197   reqTime:2019-08-23 14:34:56   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CBD2AA47D1197   reqTime:2019-08-23 14:34:57   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CBD2A83FA118W   reqTime:2019-08-23 14:35:18   UnitStatus:-1   AGVID：4
+测试   taskID:ZC0116CBD2A96691192   reqTime:2019-08-23 14:35:33   UnitStatus:-1   AGVID：5
+测试   taskID:ZC0116CBD2A61DF118L   reqTime:2019-08-23 14:35:58   UnitStatus:3   AGVID：1
+测试   taskID:ZC0116CBD2A61DF118L   reqTime:2019-08-23 14:36:00   UnitStatus:4   AGVID：1
+测试   taskID:ZC0116CBD30DD51119W   reqTime:2019-08-23 14:36:32   UnitStatus:2   AGVID：4
+测试   taskID:ZC0116CBD2A61DF118L   reqTime:2019-08-23 14:38:19   UnitStatus:-1   AGVID：1
+测试   taskID:ZC0116CBD306608119R   reqTime:2019-08-23 14:38:53   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CBD30FDD11103   reqTime:2019-08-23 14:38:59   UnitStatus:2   AGVID：5
+测试   taskID:ZC0116CBD306608119R   reqTime:2019-08-23 14:40:48   UnitStatus:3   AGVID：1
+测试   taskID:ZC0116CBD306608119R   reqTime:2019-08-23 14:40:50   UnitStatus:4   AGVID：1
+测试   taskID:ZC0116CBD30DD51119W   reqTime:2019-08-23 14:41:27   UnitStatus:3   AGVID：4
+测试   taskID:ZC0116CBD30DD51119W   reqTime:2019-08-23 14:41:28   UnitStatus:4   AGVID：4
+测试   taskID:ZC0116CBD2AA47D1197   reqTime:2019-08-23 14:41:30   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CBD30FDD11103   reqTime:2019-08-23 14:41:43   UnitStatus:3   AGVID：5
+测试   taskID:ZC0116CBD30FDD11103   reqTime:2019-08-23 14:41:44   UnitStatus:4   AGVID：5
+测试   taskID:ZC0116CBD306608119R   reqTime:2019-08-23 14:43:46   UnitStatus:-1   AGVID：1
+测试   taskID:ZC0116CBD967E0F110L   reqTime:2019-08-23 16:27:33   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CC290BE67114B   reqTime:2019-08-24 15:41:01   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CC290BE67114B   reqTime:2019-08-24 15:42:49   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CC29326B4114H   reqTime:2019-08-24 15:43:47   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CC29333D9114M   reqTime:2019-08-24 15:44:00   UnitStatus:2   AGVID：4
+测试   taskID:ZC0116CC2934140114R   reqTime:2019-08-24 15:44:39   UnitStatus:2   AGVID：5
+测试   taskID:ZC0116CC2935255114W   reqTime:2019-08-24 15:44:46   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CC29326B4114H   reqTime:2019-08-24 15:45:40   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CC29333D9114M   reqTime:2019-08-24 15:46:29   UnitStatus:3   AGVID：4
+测试   taskID:ZC0116CC2935255114W   reqTime:2019-08-24 15:46:40   UnitStatus:3   AGVID：1
+测试   taskID:ZC0116CC2934140114R   reqTime:2019-08-24 15:47:29   UnitStatus:3   AGVID：5
+测试   taskID:ZC0116CC290BE67114B   reqTime:2019-08-24 15:58:40   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CC2934140114R   reqTime:2019-08-24 15:58:43   UnitStatus:4   AGVID：5
+测试   taskID:ZC0116CC2935255114W   reqTime:2019-08-24 15:58:45   UnitStatus:4   AGVID：1
+测试   taskID:ZC0116CC29333D9114M   reqTime:2019-08-24 15:58:47   UnitStatus:4   AGVID：4
+测试   taskID:ZC0116CC29326B4114H   reqTime:2019-08-24 15:59:08   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CC2935255114W   reqTime:2019-08-24 16:00:42   UnitStatus:-1   AGVID：1
+测试   taskID:ZC0116CC29326B4114H   reqTime:2019-08-24 16:01:05   UnitStatus:-1   AGVID：3
+测试   taskID:ZC0116CC290BE67114B   reqTime:2019-08-24 16:01:22   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CC2A27249115B   reqTime:2019-08-24 16:01:56   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CC2A27249115B   reqTime:2019-08-24 16:03:51   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CC2A27249115B   reqTime:2019-08-24 16:09:51   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CC29333D9114M   reqTime:2019-08-24 16:10:17   UnitStatus:-1   AGVID：4
+测试   taskID:ZC0116CC2934140114R   reqTime:2019-08-24 16:10:28   UnitStatus:-1   AGVID：5
+测试   taskID:ZC0116CC2ACBD42115Q   reqTime:2019-08-24 16:12:21   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CC2A27249115B   reqTime:2019-08-24 16:16:53   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CC2ACBD42115Q   reqTime:2019-08-24 16:19:41   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CC2ACBD42115Q   reqTime:2019-08-24 16:19:42   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CC2ACBD42115Q   reqTime:2019-08-24 16:22:03   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CC3A8BB241160   reqTime:2019-08-24 20:45:14   UnitStatus:2   AGVID：4
+测试   taskID:ZC0116CC3A8ADB31165   reqTime:2019-08-24 20:45:41   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CC3A8DB12116K   reqTime:2019-08-24 20:46:19   UnitStatus:2   AGVID：5
+测试   taskID:ZC0116CC3A8CC6C116F   reqTime:2019-08-24 20:46:24   UnitStatus:2   AGVID：1
+测试   taskID:ZC0116CC3A8ADB31165   reqTime:2019-08-24 20:47:36   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CC3A8BB241160   reqTime:2019-08-24 20:47:47   UnitStatus:3   AGVID：4
+测试   taskID:ZC0116CC3A8CC6C116F   reqTime:2019-08-24 20:48:18   UnitStatus:3   AGVID：1
+测试   taskID:ZC0116CC3A8DB12116K   reqTime:2019-08-24 20:48:26   UnitStatus:3   AGVID：5
+测试   taskID:ZC0116CC3A8BB241160   reqTime:2019-08-24 20:48:50   UnitStatus:4   AGVID：4
+测试   taskID:ZC0116CC3A8CC6C116F   reqTime:2019-08-24 20:48:53   UnitStatus:4   AGVID：1
+测试   taskID:ZC0116CC3A8DB12116K   reqTime:2019-08-24 20:48:55   UnitStatus:4   AGVID：5
+测试   taskID:ZC0116CC3A8ADB31165   reqTime:2019-08-24 20:48:57   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CC3A8F4EA116P   reqTime:2019-08-24 20:49:25   UnitStatus:2   AGVID：3
+测试   taskID:ZC0116CC3A8ADB31165   reqTime:2019-08-24 20:51:52   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CC3A8DB12116K   reqTime:2019-08-24 20:52:21   UnitStatus:-1   AGVID：5
+测试   taskID:ZC0116CC3A8CC6C116F   reqTime:2019-08-24 20:52:29   UnitStatus:-1   AGVID：1
+测试   taskID:ZC0116CC3AC360D1176   reqTime:2019-08-24 20:52:52   UnitStatus:2   AGVID：2
+测试   taskID:ZC0116CC3A8F4EA116P   reqTime:2019-08-24 20:52:53   UnitStatus:3   AGVID：3
+测试   taskID:ZC0116CC3A8F4EA116P   reqTime:2019-08-24 20:52:55   UnitStatus:4   AGVID：3
+测试   taskID:ZC0116CC3A8BB241160   reqTime:2019-08-24 20:53:41   UnitStatus:-1   AGVID：4
+测试   taskID:ZC0116CC3AC360D1176   reqTime:2019-08-24 20:55:03   UnitStatus:3   AGVID：2
+测试   taskID:ZC0116CC3AC360D1176   reqTime:2019-08-24 20:55:05   UnitStatus:4   AGVID：2
+测试   taskID:ZC0116CC3AC360D1176   reqTime:2019-08-24 20:57:27   UnitStatus:-1   AGVID：2
+测试   taskID:ZC0116CC3A8F4EA116P   reqTime:2019-08-24 20:57:40   UnitStatus:-1   AGVID：3

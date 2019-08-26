@@ -1,0 +1,23 @@
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  5   taskID:000   RCS请求时间:8102年   系统中断时间:2019/8/21 21:42:20   AGVID：010
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  5   taskID:000   RCS请求时间:8102年   系统中断时间:2019/8/21 21:42:37   AGVID：010
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  5   taskID:000   RCS请求时间:8102年   系统中断时间:2019/8/21 21:43:38   AGVID：010
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  8   taskID:000   RCS请求时间:8102年   系统中断时间:2019/8/21 21:43:44   AGVID：010
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  8   taskID:000   RCS请求时间:8102年   系统中断时间:2019/8/21 21:49:23   AGVID：010
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  8   taskID:000   RCS请求时间:8102年   系统中断时间:2019/8/21 21:49:25   AGVID：010
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  1   taskID:000   RCS请求时间:8102年   系统中断时间:2019/8/21 21:49:48   AGVID：010
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  5   taskID:000   RCS请求时间:2019年   系统中断时间:2019/8/21 22:05:26   AGVID：010
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  5   taskID:000   RCS请求时间:2019年   系统中断时间:2019/8/21 22:08:22   AGVID：010
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  5   taskID:000   RCS请求时间:2019年   系统中断时间:2019/8/22 10:24:47   AGVID：010
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  5   taskID:000   RCS请求时间:2019年   系统中断时间:2019/8/22 11:02:16   AGVID：010
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  5   taskID:000   RCS请求时间:2019年   系统中断时间:2019/8/22 11:02:18   AGVID：010
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  5   taskID:000   RCS请求时间:2019年   系统中断时间:2019/8/22 11:27:05   AGVID：010False
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  5   taskID:000   RCS请求时间:2019年   系统中断时间:2019/8/22 11:27:37   AGVID：010False
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  5   taskID:000   RCS请求时间:2019年   系统中断时间:2019/8/22 11:29:08   AGVID：010
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  5   taskID:000   RCS请求时间:2019年   系统中断时间:2019/8/22 11:29:11   AGVID：010
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  6   taskID:000   RCS请求时间:2019年   系统中断时间:2019/8/22 11:45:37   AGVID：010
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  6   taskID:000   RCS请求时间:2019年   系统中断时间:2019/8/22 11:45:43   AGVID：010
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  11   taskID:ZC0116CBC1CCBAE114S   RCS请求时间:2019-08-23 09:40:12   系统中断时间:2019/8/23 9:41:07   AGVID：4_Check
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  11   taskID:ZC0116CBC1CCBAE114S   RCS请求时间:2019-08-23 09:40:12   系统中断时间:2019/8/23 9:41:08   AGVID：4_Check
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  11   taskID:ZC0116CBC1CCBAE114S   RCS请求时间:2019-08-23 09:40:12   系统中断时间:2019/8/23 9:41:10   AGVID：4_Check
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  11   taskID:ZC0116CBC1CCBAE114S   RCS请求时间:2019-08-23 09:40:12   系统中断时间:2019/8/23 9:41:11   AGVID：4_Check
+!!!error!!!  RCS故障 , 请检查agv状态码报文:  11   taskID:ZC0116CBC1CCBAE114S   RCS请求时间:2019-08-23 09:40:12   系统中断时间:2019/8/23 9:41:13   AGVID：4_Check
